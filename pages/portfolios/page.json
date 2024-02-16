@@ -1,29 +1,27 @@
 {
 	"name": "portfolios",
-	"portfolios": [
-		{
-			"id": "",
-			"thumb": "https://agro.webart.work/template/img/welcome.png",
-			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-			"name": "andrey.lizivinskiy"
-		},
-		{
-			"id": "",
-			"thumb": "https://agro.webart.work/template/img/welcome.png",
-			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-			"name": "andrey.lizivinskiy"
-		},
-		{
-			"id": "",
-			"thumb": "https://agro.webart.work/template/img/welcome.png",
-			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-			"name": "andrey.lizivinskiy"
-		},
-		{
-			"id": "",
-			"thumb": "https://agro.webart.work/template/img/welcome.png",
-			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-			"name": "andrey.lizivinskiy"
-		}
+	"tags": [
+	  {
+		"name": "Farms",
+		"portfolios": [
+		  {
+			"thumb": "/artemvelihin/img/1.jpg",
+			"name": "Farm"
+		  },
+		  {
+			"thumb": "/artemvelihin/img/2.jpg",
+			"name": "Farm"
+		  },
+		  {
+			"thumb": "/artemvelihin/img/3.jpg",
+			"name": "Farm"
+		  },
+		  {
+			"thumb": "/artemvelihin/img/4.jpg",
+			"name": "Farm"
+		  }
+		]
+	  }
 	]
-}
+  }
+  
